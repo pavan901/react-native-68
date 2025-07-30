@@ -30,7 +30,8 @@ Replace:
 node_modules/@videosdk.live/js-sdk/videosdk.js
 with:
 node_modules/@videosdk.live/react-native-sdk/node_modules/@videosdk.live/js-sdk/videosdk.js
- Replace:
+
+Replace:
 node_modules/@videosdk.live/react-sdk/dist
 with:
 node_modules/@videosdk.live/react-native-sdk/node_modules/@videosdk.live/react-sdk/dist
